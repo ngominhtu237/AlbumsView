@@ -1,0 +1,3 @@
+rootProject.name = 'AlbumView'
+
+include ':app'
